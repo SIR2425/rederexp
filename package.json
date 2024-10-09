@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "node appex.js"
+    "start": "node appex.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SIR2425/rederexp/issues"
   },
-  "homepage": "https://github.com/SIR2425/rederexp#readme"
+  "homepage": "https://github.com/SIR2425/rederexp#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
